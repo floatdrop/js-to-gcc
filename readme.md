@@ -1,6 +1,6 @@
 # JavaScript to GCC translator
 
-This is partial implementation of javascript to gcc tranlator for [icfp2014](icfpcontest.org/specification.html).
+This is partial implementation of javascript to gcc translator for [icfp2014](icfpcontest.org/specification.html).
 
 ## Installation:
 
